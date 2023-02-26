@@ -34,7 +34,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
    
   <br/>
-  <br/>
 
   <p><b>🎉 Back-end Stack </b></p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -42,8 +41,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   
 
-  <br/>
-  <br/>
   <br/>
 
   <p><b>🎇 Languages</b></p>
