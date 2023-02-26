@@ -58,7 +58,7 @@ Here are some ideas to get you started:
   
   <p><b>🎆 Github Stats</b></p>
   
-  ![KyeongJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=2kjin&theme=radical&show_icons=true)
+  ![KyeongJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=2kjin&theme=dracula&show_icons=true)
   <br/>
   
 
