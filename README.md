@@ -18,7 +18,6 @@ Here are some ideas to get you started:
   
   </div>
   <h1> KyeongJin's Github💖</h1>
-  <br/>
 
   <p><b>🎈 Front-end Stack</b></p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -41,6 +40,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   
 
+  <br/>
   <br/>
 
   <p><b>🎇 Languages</b></p>
