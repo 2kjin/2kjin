@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 <div style="display:flex; justify-content:space-evenly;">
   
   </div>
-  ### KyeongJin's Github💖
+  
+  ## KyeongJin's Github💖
 
   ## Skills🎈
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
