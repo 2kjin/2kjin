@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 
   ## 🎇 Languages
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2kjin&layout=compact&hide=jupyter%20notebook))
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2kjin&layout=compact&hide=jupyter%20notebook,java,c++)
   <br/>
   
   ## ✨ Algorithm 
