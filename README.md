@@ -19,11 +19,7 @@ Here are some ideas to get you started:
   
   </div>
  
-  ### KyeongJin's Github💖
-  
-  <br></br>
-
-  ## Skills🎈
+  ## Skills
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>
@@ -49,7 +45,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white"/>
   <br/>
   
-  ## Tools🎉
+  ## Tools
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=black"/>
@@ -65,7 +61,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=black"/>
   <br/>
   
-  ## Etc👑
+  ## Etc
   <img src="https://img.shields.io/badge/Houdini-FF4713?style=flat&logo=Houdini&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nuke-000000?style=flat&logo=Nuke&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe-FF0000?style=flat&logo=Adobe&logoColor=white"/>
@@ -80,20 +76,14 @@ Here are some ideas to get you started:
   <br/>
   <br/>
 
-  ## 🎇 Languages
+  ## Languages
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2kjin&layout=compact&hide=jupyter%20notebook,java,c++)
   <br/>
   
-  ## ✨ Algorithm 
+  ## Algorithm 
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjin1202)](https://solved.ac/kjin1202/)
-  <br/>
-
-  
-  ## 🎆 Github Stats 
-  
-  ![KyeongJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=2kjin&theme=dracula&show_icons=true)
   <br/>
   
 
