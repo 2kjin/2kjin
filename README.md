@@ -12,16 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=F7DF1E&height=200&section=header&text=Kjin&desc=Front-end&fontSize=60&rotate=14&fontAlignY=80&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling&fontColor=ffffff)
 
 <div>
  <div align=right>
   
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2kjin&count_bg=%2332346C&title_bg=%236C71F1&icon=&icon_color=%23A23030&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-  </div align=center>
+  <br/>
+  ![header](https://capsule-render.vercel.app/api?type=slice&color=DB7093&height=180&text=KJin&fontSize=60&fontAlign=80&&fontAlignY=20&rotate=12&desc=Front%20End&fontColor=ffffff&descAlign=80&descAlignY=40&animation=twinkling)
+
+  </div>
  
+ <div align=center>
+  
   ## Skills
+  
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>
@@ -48,6 +52,7 @@ Here are some ideas to get you started:
   <br/>
   
   ## Tools
+  
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=black"/>
@@ -64,6 +69,7 @@ Here are some ideas to get you started:
   <br/>
   
   ## Etc
+  
   <img src="https://img.shields.io/badge/Houdini-FF4713?style=flat&logo=Houdini&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nuke-000000?style=flat&logo=Nuke&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe-FF0000?style=flat&logo=Adobe&logoColor=white"/>
