@@ -24,7 +24,10 @@ Here are some ideas to get you started:
  
  <div align=center>
   
-  ## Skills
+  <b>Samsung Software Academy For Youth</b> <sub><sup>2022.07~2023.06</sup></sub>
+<br/>
+  
+  <h2> Skills </h2>
   
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
@@ -51,7 +54,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white"/>
   <br/>
   
-  ## Tools
+  <h2> Tools </h2>
   
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
@@ -68,7 +71,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=black"/>
   <br/>
   
-  ## Etc
+  <h2> Etc </h2>
   
   <img src="https://img.shields.io/badge/Houdini-FF4713?style=flat&logo=Houdini&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nuke-000000?style=flat&logo=Nuke&logoColor=white"/>
@@ -84,12 +87,12 @@ Here are some ideas to get you started:
   <br/>
   <br/>
 
-  ## Languages
+<!--   <h2> Languages </h2>
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2kjin&layout=compact&hide=jupyter%20notebook,java,c++)
-  <br/>
+  <br/> -->
   
-  ## Algorithm 
+  <h2> Algorithm </h2>
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjin1202)](https://solved.ac/kjin1202/)
   <br/>
