@@ -25,6 +25,7 @@ Here are some ideas to get you started:
  <div align=center>
   
   <b>Samsung Software Academy For Youth</b> <sub><sup>2022.07~2023.06</sup></sub>
+<br/>
   <b>Shinsegae Inc Java Backend</b> <sub><sup>2024.06~2024.12</sup></sub>
 <br/>
 <br/>
