@@ -25,6 +25,7 @@ Here are some ideas to get you started:
  <div align=center>
   
   <b>Samsung Software Academy For Youth</b> <sub><sup>2022.07~2023.06</sup></sub>
+  <b>Shinsegae Inc Java Backend</b> <sub><sup>2024.06~2024.12</sup></sub>
 <br/>
 <br/>
   
@@ -39,6 +40,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=Three.js&logoColor=white"/>
+  
+  <br/>
+  <br/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+  <br/>
   
   <br/>
   <br/>
@@ -69,7 +75,10 @@ Here are some ideas to get you started:
   
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
+  <br/>
+  
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
   <br/>
   <br/>
 
@@ -80,6 +89,7 @@ Here are some ideas to get you started:
   
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mattermost-0058CC?style=flat&logo=Mattermost&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
   <br/>
   <br/>
 
