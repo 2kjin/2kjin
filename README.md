@@ -43,8 +43,7 @@ Here are some ideas to get you started:
   
   <br/>
   <br/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
-  <br/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=aiqfome&logoColor=white"/>
   
   <br/>
   <br/>
